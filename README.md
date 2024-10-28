@@ -1,5 +1,5 @@
 # Corretor de Textos
 
-- [ ] Contabiliza quantas vezes uma palavra repete por frase
-- [ ] Dá a opção ao usuário de trocar ou não a palavra por um sinonimo
+- [x] Contabiliza quantas vezes uma palavra repete por frase
+- [x] Dá a opção ao usuário de trocar ou não a palavra por um sinonimo
 
